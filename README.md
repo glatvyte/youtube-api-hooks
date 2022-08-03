@@ -1,4 +1,5 @@
 It is a Youtube browser application made with React (using functional components with hooks) and Youtube API. 
+Your Youtube API key can be created by using Google API library. Choose Youtube Data API v3.
 
 # Getting Started with Create React App
 
